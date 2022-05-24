@@ -3,20 +3,27 @@
 </h1>
 
 
+
 <h3 align="center">
-	Project carried out to put learning into practice.
+	Project with technologies: HTML and CSS.
 </h3>
 
 
+
+
 <h4 align="center">
-	Status: 🚀 Finalizado
+	Status: 🚀 Finished
 </h4>
+
+
 
 
 <p align="center">
 	<a href="#tech-stack">Tech Stack</a> •
-	<a href="#contact">Contact</a> 
+	<a href="filipe_thielsom@hotmail.com" target=”_blank”>Contact</a> 
 </p>
+
+
 
 
 ## Tech Stack
